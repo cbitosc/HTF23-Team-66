@@ -17,4 +17,4 @@ technology.
 
 
 
-## Thanks for participating!
+## Thanks for the opportunity!
